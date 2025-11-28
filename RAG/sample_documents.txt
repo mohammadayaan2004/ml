@@ -1,0 +1,19 @@
+The Earth revolves around the Sun in approximately 365.25 days. This is why we have a leap year every four years to account for the extra 0.25 days.
+
+Water boils at 100 degrees Celsius at sea level. The boiling point decreases with altitude due to lower atmospheric pressure.
+
+The human body has 206 bones. Babies are born with about 270 bones, but many fuse together as they grow.
+
+Photosynthesis is the process by which plants convert sunlight into energy. During this process, carbon dioxide and water are converted into glucose and oxygen.
+
+The speed of light in a vacuum is approximately 299,792,458 meters per second. This is roughly 186,282 miles per second.
+
+Albert Einstein developed the theory of relativity. He won the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect.
+
+The Pacific Ocean is the largest ocean on Earth. It covers about 30% of the Earth's surface and contains more than half of the free water on Earth.
+
+Python is a high-level programming language created by Guido van Rossum. It was first released in 1991 and emphasizes code readability.
+
+The capital of France is Paris. Paris is located in the north-central part of France along the Seine River.
+
+Leonardo da Vinci painted the Mona Lisa. This famous artwork is housed in the Louvre Museum in Paris.
